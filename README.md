@@ -12,6 +12,30 @@ Objectives:
 3. Explore how increasing pressure changes Na solubility trends
 
 
+This repository has the following structure:
+
+* data/ 
+ - raw/
+ - processed/
+
+* notebooks/
+ - exploratory/
+ - final/
+
+* tests/
+
+* results/
+ -figures/
+ -models/
+
+*reports/
+ -interim/
+ -final/
+
+ -.gitignore
+ -README.md
+ 
+
 Instructions for setting up and running the code:
 
 
